@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "我是修改的密码" );
+        System.out.println( "我重新修改的密码" );
     }
 }
